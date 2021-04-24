@@ -1,8 +1,8 @@
-100% News,http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+﻿100% News,http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 101TV Malaga,https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
-24 ?????,http://streamvideol1.luxnet.ua/news24/news24.stream/chunklist.m3u8
-24 ????? (1080p),http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8
-24 ????? (1080p),http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
+24 Канал,http://streamvideol1.luxnet.ua/news24/news24.stream/chunklist.m3u8
+24 Канал (1080p),http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8
+24 Канал (1080p),http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 24/7 Canal de Noticias (720p),http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
 24/7 Canal de Noticias (720p),https://59c5c86e10038.streamlock.net/6605140/6605140/playlist.m3u8
 24/7 Canal de Noticias,https://panel.dattalive.com/6605140/6605140/chunklist_w1813443749.m3u8
@@ -76,14 +76,14 @@ BBC Persian (720p),https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/b
 BBC World News (576p),http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 BBC World News (480p)
  like Gecko) Mobile/15E148,http://ott-cdn.ucom.am/s24/index.m3u8
-BBC World News(??),https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
+BBC World News(英国),https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
 Berita RTM (1080p),https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
 BeritaSatu,http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
 BeritaSatu,https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 BeritaSatu,https://b1news.beritasatumedia.com/Beritasatu/B1News_320x240.m3u8
 BeritaSatu,https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
 BeritaSatu English,http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
-Bloomberg(??),https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+Bloomberg(美国),https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 Brut.,https://a.jsrdn.com/broadcast/baac3e801e/+0000/high/c.m3u8
 Brut.,https://a.jsrdn.com/broadcast/d5b47/+0000/low/c.m3u8
 Bulgaria On Air (576p),http://edge1.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
@@ -96,7 +96,7 @@ Canal 26 (720p),https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlis
 CBC News,https://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
 CBC News Network,https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8
 CBN Rio,https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
-CBN S?o Paulo,https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+CBN São Paulo,https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 CBS News (720p),https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 CBS News (720p),https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?iu=/8264/vaw-can/mobile_web/cbsnews_mobile
 CBS News Boston (720p),https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8?iu=/4128/CBS.BOSTON.OTT
@@ -108,12 +108,12 @@ CBSN (720p),https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/maste
 CBSN (720p),https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 CBSN New York (720p),https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
 CBSN New York (180p),https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master_12.m3u8
-CCTV???????-13 ??,http://117.148.187.37/PLTV/88888888/224/3221226193/index.m3u8
-CCTV???????-13 ??,http://117.169.120.140:8080/live/cctv-13/.m3u8
-CCTV???????-13 ??,http://121.31.30.90:8085/ysten-business/live/cctv-13/1.m3u8
+CCTV中国中央电视台-13 新闻,http://117.148.187.37/PLTV/88888888/224/3221226193/index.m3u8
+CCTV中国中央电视台-13 新闻,http://117.169.120.140:8080/live/cctv-13/.m3u8
+CCTV中国中央电视台-13 新闻,http://121.31.30.90:8085/ysten-business/live/cctv-13/1.m3u8
 CGTN (720p),https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-CGTN Documentary(??),https://livedoc.cgtn.com/1000d/prog_index.m3u8
-CGTN(??),https://live.cgtn.com/1000/prog_index.m3u8
+CGTN Documentary(中国),https://livedoc.cgtn.com/1000d/prog_index.m3u8
+CGTN(中国),https://live.cgtn.com/1000/prog_index.m3u8
 Channel 2 News (720p),https://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
 Cheddar (720p),https://content.uplynk.com/channel/4ee18bd581dc4d3b90303e0cb9beeb0f.m3u8
 Cheddar Big News,https://live.chdrstatic.com/cbn/index.m3u8
@@ -127,9 +127,9 @@ CNN (576p),http://203.162.235.41:16918
 CNN Indonesia (720p),https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 CNN International,https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 CNN International (720p),https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-CNN International (??),https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
-CNN T?rk,http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
-CNN(??),http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
+CNN International (美国),https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
+CNN Türk,http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+CNN(美国),http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 CNN-News18,https://vootlive-i.akamaihd.net/hls/live/799896/cnnnews18voot/master_5.m3u8
 DBC News (1080p),https://live.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIxIDM6MzQ6MjQgUE0maGFzaF92YWx1ZT1mdVdtWlhUaVZpZEZwbjg1cWQzZXRnPT0mdmFsaWRtaW51dGVzPTYw
 DD National (480p),https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8
@@ -150,18 +150,18 @@ DW English (400p),https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/mast
 DW English,https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_4_av-p.m3u8
 DW English (400p),https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 DW English (720p),https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8
-DW Espa?ol (400p),https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+DW Español (400p),https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 Echorouk News (240p),http://echorouk-live-tv.dzsecurity.net:8081/echo/EchoroukNews/playlist.m3u8
 Entertainment Tonight (1080p),https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 Euronews Albania,http://51.195.88.12:4050/live/euronewsmobpp2/playlist.m3u8
 Euronews Deutsch,https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
-Euronews en Espa?ol,https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
-Euronews en Fran?ais,https://alchimie-euronews-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+Euronews en Español,https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
+Euronews en Français,https://alchimie-euronews-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 Euronews in English,https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 Euronews in English,https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
 Euronews in English,https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 Euronews Italiano,https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
-Euronews ??-?????? (480p)
+Euronews по-русски (480p)
 like Gecko) Mobile/15E148,http://ott-cdn.ucom.am/s89/index.m3u8
 Exitosa TV,https://cu.onliv3.com/livevd1/user2.m3u8
 Expressen TV (720p),https://,httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx2_720p/playlist.m3u8
@@ -170,7 +170,7 @@ Fox News (720p),https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
 FOX News Now,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 Fox News Now (720p),https://lnc-fox-news-now.tubi.video/index.m3u8
 Fox News Radio (192p),https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
-Fox News(??),http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+Fox News(美国),http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 France 24 Arabic,http://f24hls-i.akamaihd.net/hls/live/221148/F24_AR_HI_HLS/master_900.m3u8
 France 24 Arabic (576p),https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
 France 24 Arabic (576p),https://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
@@ -178,12 +178,12 @@ France 24 English,http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/mas
 France 24 English,http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 France 24 English (576p),https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
 France 24 English (576p),https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-France 24 Espa?ol,http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
-France 24 Espa?ol,https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
-France 24 Espa?ol (576p),https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
-France 24 Fran?ais,http://f24hls-i.akamaihd.net/hls/live/221146/F24_FR_HI_HLS/master_2000.m3u8
-France 24 Fran?ais (576p),https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
-France 24 Fran?ais,https://static.france24.com/live/F24_FR_HI_HLS/live_web.m3u8
+France 24 Español,http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
+France 24 Español,https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
+France 24 Español (576p),https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+France 24 Français,http://f24hls-i.akamaihd.net/hls/live/221146/F24_FR_HI_HLS/master_2000.m3u8
+France 24 Français (576p),https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+France 24 Français,https://static.france24.com/live/F24_FR_HI_HLS/live_web.m3u8
 Free Speech TV (480p),https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
 Futurism (720p),https://dai.google.com/linear/hls/event/YakHdnr_RpyszducVuHOpQ/master.m3u8
 Global News (720p),https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
@@ -300,14 +300,14 @@ RT America (720p),https://rt-usa.secure.footprint.net/1105.m3u8
 RT America,https://uiptv.do.am/1ufc/702424953/playlist.m3u8
 RT Arabic (720p),https://rt-arab-gd.secure2.footprint.net/1104.m3u8
 RT Arabic (720p),https://rt-arab.secure.footprint.net/1104.m3u8
-RT en Espa?ol (720p),https://rt-esp.secure.footprint.net/1102.m3u8
+RT en Español (720p),https://rt-esp.secure.footprint.net/1102.m3u8
 RT France (720p),https://rt-france.secure.footprint.net/1107.m3u8?streamType=live
 RT UK (720p),https://rt-uk-gd.secure2.footprint.net/1106.m3u8
 RT UK (720p),https://rt-uk.secure.footprint.net/1106.m3u8?streamType=live
-RT(???),http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
+RT(俄罗斯),http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
 RTP3 [not 24/7]
 EXTVLCOPT:,http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64),https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
-RT? News (1080p),https://live.rte.ie/live/a/channel3/news.isml/news.m3u8
+RTÉ News (1080p),https://live.rte.ie/live/a/channel3/news.isml/news.m3u8
 Rudaw TV (1080p),https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
 Sky News (720p) [Geo-blocked],http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
 Sky News (720p) [Geo-blocked],http://skynews-sn-cdhls.ak-cdn.skydvn.com/cdhlsskynews/1404/latest.m3u8
@@ -333,12 +333,12 @@ TRT Arabi (1080p),https://tv-trtarabi.live.trt.com.tr/master.m3u8
 TRT Haber (720p),https://tv-trthaber.live.trt.com.tr/master.m3u8
 TRT World (1080p),https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
 TRT World (1080p),https://tv-trtworld.live.trt.com.tr/master.m3u8
-TRT World(???),https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
-TV Guar? (720p),https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/playlist.m3u8
-TV Per? Noticias,http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
-TV Per? Noticias,https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
+TRT World(土耳其),https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
+TV Guará (720p),https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/playlist.m3u8
+TV Perú Noticias,http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
+TV Perú Noticias,https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 TV Seventeen (720p),https://cdn.tvseventeen.com/test_tv_seventeen/index.m3u8
-TVBS??,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 TVRI,http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
 Twenty Four News (576p),http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
 UN Web TV (540p),https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8
@@ -358,39 +358,39 @@ WTTG Fox 5 Washington DC (720p),https://lnc-wttg-fox-aws.tubi.video/index.m3u8
 WTVT Fox 13 Tampa Bay (720p),https://lnc-wtvt-fox-aws.tubi.video/index.m3u8
 WTXF Fox 29 Philadelphia (720p),https://lnc-wtxf-fox-aws.tubi.video/index.m3u8
 WYNY Fox 5 New York (720p),https://lnc-wnyw-fox-aws.tubi.video/index.m3u8
-??????????? (720p),https://strm.yandex.ru/kal/euronews_supres/euronews_supres0.m3u8
-???????? (1080p),http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-???????? (720p),https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-??? 24,http://188.40.68.167/russia/mir24/playlist.m3u8
-??? 24 (1080p),http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-??? 24,https://sc.id-tv.kz/Mir24.m3u8
-??? 24,https://sc.id-tv.kz/Mir24_38_39.m3u8
-?????? ??????????,http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
-?????? ??????????,https://app.live.112.events/hls-ua/112hd_mid/index.m3u8
-?????? ??????????,https://app.live.112.events/hls/112hd_hi/index.m3u8
-?????? ??????????,https://app.live.112.events/hls/112hd_mid/index.m3u8
-?????? 24,http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
-?????? 24 (480p)
+Евроновости (720p),https://strm.yandex.ru/kal/euronews_supres/euronews_supres0.m3u8
+Известия (1080p),http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+Известия (720p),https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+Мир 24,http://188.40.68.167/russia/mir24/playlist.m3u8
+Мир 24 (1080p),http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+Мир 24,https://sc.id-tv.kz/Mir24.m3u8
+Мир 24,https://sc.id-tv.kz/Mir24_38_39.m3u8
+Перший незалежний,http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+Перший незалежний,https://app.live.112.events/hls-ua/112hd_mid/index.m3u8
+Перший незалежний,https://app.live.112.events/hls/112hd_hi/index.m3u8
+Перший незалежний,https://app.live.112.events/hls/112hd_mid/index.m3u8
+Россия 24,http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+Россия 24 (480p)
  like Gecko) Mobile/15E148,http://ott-cdn.ucom.am/s21/index.m3u8
-?????? 24,http://tv-online.gtrkchita.ru:8080/hls/r24-chita_360p.m3u8
-?????? 24,https://uiptv.do.am/1ufc/000000006/playlist.m3u8
-????? ????? TV9 (720p),https://vidcdn.vidgyor.com/tv9kannada-origin/live/playlist.m3u8
-???????? ?????? Dighvijay,https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/playlist.m3u8
-?????? ?? ????? News 18,https://news18kannada-lh.akamaihd.net/i/n18kannada_1@372918/index_4_av-p.m3u8?sd=10&rebase=on
-?????? ?????? 24?7 Suvarna (360p),https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/playlist.m3u8
-????,http://seb.sason.top/sc/sllive_fhd.m3u8
-????,http://seb.sason.top/sc/ztxw_fhd.m3u8
-????,http://seb.sason.top/sc/zsxw_fhd.m3u8
-????,http://seb.sason.top/sc/tsxw_fhd.m3u8
-??????,http://stream.nexttv.com.tw/n001/hd/live.m3u8
-????,http://seb.sason.top/sc/dsxw_fhd.m3u8
-??????,http://seb.sason.top/sc/dscjxw_fhd.m3u8
-????,http://seb.sason.top/ptv/ftv.php?id=tw
-?????,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-????32 (480p),https://www.rthk.hk/feeds/dtt/rthktv32_,https.m3u8
-???? (720p),http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
-??????,http://seb.sason.top/sc/hsxw_fhd.m3u8
-???????HD,http://117.169.120.138:8080/live/fhzixun/.m3u8
+Россия 24,http://tv-online.gtrkchita.ru:8080/hls/r24-chita_360p.m3u8
+Россия 24,https://uiptv.do.am/1ufc/000000006/playlist.m3u8
+ಟಿವಿ೯ ಕನ್ನಡ TV9 (720p),https://vidcdn.vidgyor.com/tv9kannada-origin/live/playlist.m3u8
+ದಿಗ್ವಿಜಯ ಸುದ್ದಿ Dighvijay,https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/playlist.m3u8
+ನ್ಯೂಸ್ ೧೮ ಕನ್ನಡ News 18,https://news18kannada-lh.akamaihd.net/i/n18kannada_1@372918/index_4_av-p.m3u8?sd=10&rebase=on
+ಸುವರ್ಣ ಸುದ್ದಿ 24×7 Suvarna (360p),https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/playlist.m3u8
+三立新聞,http://seb.sason.top/sc/sllive_fhd.m3u8
+中天新聞,http://seb.sason.top/sc/ztxw_fhd.m3u8
+中視新聞,http://seb.sason.top/sc/zsxw_fhd.m3u8
+台視新聞,http://seb.sason.top/sc/tsxw_fhd.m3u8
+壹電視新聞台,http://stream.nexttv.com.tw/n001/hd/live.m3u8
+東森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8
+東森財經新聞,http://seb.sason.top/sc/dscjxw_fhd.m3u8
+民視台灣,http://seb.sason.top/ptv/ftv.php?id=tw
+民視新聞台,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+港台電視32 (480p),https://www.rthk.hk/feeds/dtt/rthktv32_,https.m3u8
+澳門資訊 (720p),http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
+華視新聞資訊,http://seb.sason.top/sc/hsxw_fhd.m3u8
+鳳凰衛視資訊台HD,http://117.169.120.138:8080/live/fhzixun/.m3u8
 A3BIKINI TV (720p),https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
 AdultIPTV.net Anal,http://cdn.adultiptv.net/anal.m3u8
 AdultIPTV.net Anal,http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/anal.m3u8
@@ -453,7 +453,7 @@ Jasmin TV (720p),http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlis
 Miami TV,https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
 Miami TV Jenny Live,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
 Miami TV Latino,https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
-Miami TV M?xico,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1931827340_b1896000.m3u8
+Miami TV México,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1931827340_b1896000.m3u8
 Playboy TV,http://187.188.147.165:8000/play/a00l/index.m3u8
 Private TV,http://87.207.71.147:4000/play/a03b/index.m3u8
 Visit-X TV (720p),http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
@@ -473,7 +473,7 @@ FashionTV PG16,https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/
 HDFashion & LifeStyle,http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 HDFashion & LifeStyle,http://95.67.47.115/hls/hdfashion_ua_mid/index.m3u8
 &Flix,https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-&priv? HD,https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+&privé HD,https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 ACN Cinema (1080p),http://ammacable.com:1935/acn/acncinema/playlist.m3u8
 Akudji TV,https://hls.goodgame.ru/hls/5346.m3u8
 Amedia Hit,http://sc.id-tv.kz:80/amedia_hit_hd_38_39.m3u8
@@ -485,12 +485,12 @@ Bflix Movies (480p),https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3
 Bollywood (480p),https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8
 Bollywood HD,http://89.106.234.5:80/bollywood_hd_34_35.m3u8
 Bollywood HD,https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
-CCTV???????-6 ??,http://117.169.120.140:8080/live/cctv-6/.m3u8
-CCTV???????-6 ??,http://121.31.30.90:8085/ysten-business/live/cctv-6/1.m3u8
-CCTV???????-6 ??,http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
+CCTV中国中央电视台-6 电影,http://117.169.120.140:8080/live/cctv-6/.m3u8
+CCTV中国中央电视台-6 电影,http://121.31.30.90:8085/ysten-business/live/cctv-6/1.m3u8
+CCTV中国中央电视台-6 电影,http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
 Celestial Movies (480p),http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 Charge! (720p),https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
-CHC????,http://ivi.bupt.edu.cn/hls/chchd.m3u8
+CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 Cinema,https://sc.id-tv.kz/Cinema_34_35.m3u8
 Classic Cinema (240p),https://nrpus.bozztv.com/36bay2/gusa-classiccinema/index.m3u8
 Docurama,https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
@@ -522,7 +522,7 @@ iFILM Arabic (720p),https://live.presstv.com/ifilmlive/smil:ifilmar.smil/playlis
 iFILM English,https://live1.presstv.com/live/ifilmen.m3u8
 iFILM Persian 1 (720p),https://live.presstv.com/ifilmlive/smil:ifilmtv.smil/playlist.m3u8
 iFILM Persian 2,https://live1.presstv.com/live/ifilm2.m3u8
-It?s At The Movies (480p),https://nimble.dashstreams.net/onestudio/its_comming_soon/playlist.m3u8
+It’s At The Movies (480p),https://nimble.dashstreams.net/onestudio/its_comming_soon/playlist.m3u8
 Kuriakos Cine (1080p),http://c2.manasat.com:1935/kcine/kcine3/FluxusTV.m3u8
 Kuriakos Cine (1080p),http://c2.manasat.com:1935/kcine/kcine3/master.m3u8
 Maha Movie (480p),https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
@@ -541,7 +541,7 @@ Movies Kingdom,https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
 Moviesphere Free,https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 Mystery Science Theater 3000 (STIRR),https://dai.google.com/linear/hls/event/rmBGeSwhQEG64TrT0_JO2A/master.m3u8
 Mythos (720p),https://nrpus.bozztv.com/36bay2/gusa-mythos/index.m3u8
-NewTV???? ????,http://121.31.30.90:8085/ysten-business/live/dongzuody/1.m3u8
+NewTV未来电视 动作电影,http://121.31.30.90:8085/ysten-business/live/dongzuody/1.m3u8
 Paramount Channel Russia,http://188.40.68.167/russia/paramount/playlist.m3u8
 Raj Digital Plus (404p),http://acv.asianetmobiletvplus.com/channels/rajdigital_htfuqchouekpefzxodtbzaojtryxpqkx_hls/rajdigital_htfuqchouekpefzxodtbzaojtryxpqkx_master.m3u8
 Rotana Cinema HD (1080p),https://hiplayer.hibridcdn.net/p/rotana-cinema
@@ -574,43 +574,43 @@ WOW! TV (720p),http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 WOW! TV (720p),http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8
 Zee Mundo (720p),https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
 Zee Mundo,https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
-??? ???o,http://cdn.nexttvnet.ru/hlsl/10/Dom_kino/Dom_kino_3/index.m3u8
-??? ????,http://51.195.44.53:8081/tv/dom-kino/chunks.m3u8
-??? ???? ??????? HD,https://sc.id-tv.kz/domkino_hd_38_39.m3u8
-??????,http://188.40.68.167/russia/dorama/playlist.m3u8
-?????? (480p)
+Дом кинo,http://cdn.nexttvnet.ru/hlsl/10/Dom_kino/Dom_kino_3/index.m3u8
+Дом кино,http://51.195.44.53:8081/tv/dom-kino/chunks.m3u8
+Дом Кино Премиум HD,https://sc.id-tv.kz/domkino_hd_38_39.m3u8
+Дорама,http://188.40.68.167/russia/dorama/playlist.m3u8
+Дорама (480p)
  like Gecko) Mobile/15E148,http://ott-cdn.ucom.am/s95/index.m3u8
-??????,http://sc.id-tv.kz:80/dorama_hd_34_35.m3u8
-?? ????,https://sc.id-tv.kz/ElArna_38_39.m3u8
-????????,http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
-????????????,https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
-????????????,http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/728/index.m3u8
-????????????,http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
-????????????,https://s3.idata.uz/dars6/tracks-v1a1/mono.m3u8
-?????????,http://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
-???????,http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
-???????,https://s1.idata.uz/stch_temp3/tracks-v1a1/mono.m3u8
-???????? ???? (720p),https://strm.yandex.ru/kal/kinoclassic/kinoclassic0.m3u8
-??? ???????,http://188.40.68.167/russia/mir_seriala/playlist.m3u8
-????????,https://autopilot.catcast.tv/content/39161/index.m3u8
-????,http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
-????,http://121.31.30.90:8085/ysten-business/live/jdianying/1.m3u8
+Дорама,http://sc.id-tv.kz:80/dorama_hd_34_35.m3u8
+Ел Арна,https://sc.id-tv.kz/ElArna_38_39.m3u8
+Киномикс,http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
+Кинопремьера,https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
+Киносвидание,http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/728/index.m3u8
+Киносвидание,http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
+Киносвидание,https://s3.idata.uz/dars6/tracks-v1a1/mono.m3u8
+Киносемья,http://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
+Кинохит,http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
+Кинохит,https://s1.idata.uz/stch_temp3/tracks-v1a1/mono.m3u8
+Классика Кино (720p),https://strm.yandex.ru/kal/kinoclassic/kinoclassic0.m3u8
+Мир сериала,http://188.40.68.167/russia/mir_seriala/playlist.m3u8
+Премьера,https://autopilot.catcast.tv/content/39161/index.m3u8
+СТРК,http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
+黑莓电影,http://121.31.30.90:8085/ysten-business/live/jdianying/1.m3u8
 3 Tamil TV (720p),https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 30A Sidewalks,https://30a-tv.com/sidewalks.m3u8
 4U TV (480p),http://live.4ulive.ir/
 7Star TV (576p),http://media.7starcloud.com:1935/live/7star/playlist.m3u8
-8 ?????,http://176.99.110.252/stream8/playlist.m3u8
-9 ????? (720p),http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
-9 ????? (720p),https://strm.yandex.ru/kal/acb/acb0.m3u8
+8 Канал,http://176.99.110.252/stream8/playlist.m3u8
+9 Волна (720p),http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
+9 Волна (720p),https://strm.yandex.ru/kal/acb/acb0.m3u8
 A&E (Best of) (1080p),https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
 Aathavan TV (720p),http://45.77.66.224:1935/athavantv/live/playlist.m3u8
 Adult Swim (1080p),https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master.m3u8
 Amrita TV (576p),http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
 Arasan TV (1080p),http://ammacable.com:1935/acn/arasantv/playlist.m3u8
 BlazeTV (720p),https://theblaze4.akamaized.net/hls/live//699982/theblaze/cm-dvr/master.m3u8
-CCTV???????-3 ??,http://117.169.120.140:8080/live/cctv-3/.m3u8
-CCTV???????-3 ??,http://121.31.30.90:8085/ysten-business/live/cctv-3/1.m3u8
-CCTV???????-3 ??,http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
+CCTV中国中央电视台-3 综艺,http://117.169.120.140:8080/live/cctv-3/.m3u8
+CCTV中国中央电视台-3 综艺,http://121.31.30.90:8085/ysten-business/live/cctv-3/1.m3u8
+CCTV中国中央电视台-3 综艺,http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
 Circle,https://circle-xumo.amagi.tv/playlist.m3u8
 Comet TV (Geo-USA),http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
 Court TV,https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8?v=2&ad=web&m.sound=normal&pos=midroll&expand=ad_live&m.sound=normal&m.playback=autoplay
@@ -634,7 +634,7 @@ GEM Property [Geo-blocked],https://d2e40kvaojifd6.cloudfront.net/stream/gem_prop
 GEM River [Geo-blocked],https://d2e40kvaojifd6.cloudfront.net/stream/river/playlist_960x540_2000k.m3u8
 GEM Travel [Geo-blocked],https://d2e40kvaojifd6.cloudfront.net/stream/gem_travel/playlist_960x540_2000k.m3u8
 Happy Channel (720p),https://ivm.antenaplay.ro/live/happy/playlist.m3u8
-HD ????? (720p),https://strm.yandex.ru/kal/hdmedia/hdmedia0.m3u8
+HD Медиа (720p),https://strm.yandex.ru/kal/hdmedia/hdmedia0.m3u8
 ITN TV (480p),https://2nbyjjx7y53k-hls-live.5centscdn.com/031820/ba22796be201dee03c46a9b0ada66145.sdp/playlist.m3u8
 Jaihind TV (576p),http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8
 Janam TV (240p),https://vidcdn.vidgyor.com/janamtv-origin/liveabr/janamtv-origin/live3/playlist.m3u8
@@ -653,7 +653,7 @@ MK TV (576p),http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
 Modern Economy [Geo-blocked],https://d2e40kvaojifd6.cloudfront.net/stream/modern_economy/playlist_960x540_2000k.m3u8
 MTV (720p),https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 MTV Norge (720p),https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-NewTV???? ????,http://121.31.30.90:8085/ysten-business/live/saishijx/1.m3u8
+NewTV未来电视 金牌综艺,http://121.31.30.90:8085/ysten-business/live/saishijx/1.m3u8
 nosey | Divorce Court,https://stitcheraws.unreel.me/wse-node02.powr.com/powr/ngrp:5eb1e76d1474f9020c06f9ee_all/playlist.m3u8
 nosey | Jerry Springer,https://stitcheraws.unreel.me/wse-node04.powr.com/powr_480pt/ngrp:5eb1e7f848f1ff2e1d2555a2_all/playlist.m3u8
 nosey | Judge Karen's Court,https://stitcheraws.unreel.me/wse-node02.powr.com/powr/ngrp:5eb1e7261474f9020c06f9ec_all/playlist.m3u8
@@ -680,11 +680,11 @@ Young Hollywood,https://a.jsrdn.com/broadcast/e0f99ab19c/+0000/high/c.m3u8
 Young Hollywood,https://younghollywood-rakuten.amagi.tv/playlist.m3u8
 YourTime TV,https://hls.yourtime.live/hls/stream.m3u8
 YouToo America,https://gideommd.mmdlive.lldns.net/gideommd/d5b6a753f86e4e51b8e15c7d23887a4f/manifest.m3u8
-?????? (1080p),http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
-?????? (576p),https://online-video.rbc.ru/online/rbctv.m3u8
-??? International
+Ратник (1080p),http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
+Ратник (576p),https://online-video.rbc.ru/online/rbctv.m3u8
+ТНТ International
  like Gecko) Mobile/15E148,http://ott-cdn.ucom.am/s19/04.m3u8
-??????? ????? Kasthuri (576p),http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
+ಕಸ್ತೂರಿ ಕನ್ನಡ Kasthuri (576p),http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
 Chef Champion (720p),https://nrpus.bozztv.com/36bay2/gusa-chefchampion/index.m3u8
 Chef Roc Show (720p),https://nrpus.bozztv.com/36bay2/gusa-chefrock/index.m3u8
 Cook&Play (480p/720p),https://stream1.antenaplay.ro/live/smil:CookPlay.smil/playlist.m3u8
