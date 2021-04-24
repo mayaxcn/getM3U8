@@ -3,6 +3,7 @@ using System.IO;
 using System.Net;
 using System.Net.Http;
 using System.Net.Http.Headers;
+using System.Text;
 
 namespace getM3U8
 {
@@ -31,7 +32,7 @@ namespace getM3U8
                 }
                 //Console.WriteLine(XH_play_list);
                 string save_tv_txt_path = AppContext.BaseDirectory + "tv.txt";
-                File.WriteAllText(save_tv_txt_path, XH_play_list);
+                File.WriteAllText(save_tv_txt_path, XH_play_list, Encoding.UTF8);
                 Console.WriteLine(DateTime.Now.ToString("【MM-dd HH:mm:ss】") + " 已将文件保存于" + save_tv_txt_path + "中\n");
             }
         }
