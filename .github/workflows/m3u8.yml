@@ -39,3 +39,19 @@ jobs:
     # 运行
     - name: Run
       run: dotnet run getM3U8.dll
+      
+    # update docs
+    - name: Commit to gh-pages and push
+      run: |
+          $ErrorActionPreference = "Continue"
+          git add -A
+          git diff HEAD --exit-code
+          if ($LASTEXITCODE -eq 0) {
+            Write-Host "No changes to commit!"
+          } else {
+            git config --global user.name "mayaxcn"
+            git config --global user.email "mayax@vip.qq.com"
+            git commit -m "Updated M3U8 list"
+            git remote set-url origin https://x-access-token:${{ secrets.M3U8_GIT_KEY }}@github.com/getM3U8
+            git add README.md
+          }
