@@ -45,8 +45,9 @@ jobs:
       run: |
          git config --local user.email "mayax@vip.qq.com"
          git config --local user.name "mayaxcn"
-         git add README.md
-         git commit -m "update readme.md"
+         git init
+         git add tv.txt
+         git commit -m "update tv.txt"
     - name: Push changes
       uses:  ad-m/github-push-action@master
       with:
