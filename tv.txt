@@ -1,4 +1,4 @@
-100% News,http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+﻿100% News,http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 101TV Malaga,https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
 24 Канал,http://streamvideol1.luxnet.ua/news24/news24.stream/chunklist.m3u8
 24 Канал (1080p),http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8
