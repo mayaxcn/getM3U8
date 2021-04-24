@@ -9,7 +9,7 @@ on:
     - cron: '10 6 * * *' # cron表达式，Actions时区是UTC时间，所以要往前推8个小时,如上表示每天14点10分
     
 jobs:
-  run-bilibili-tool:
+  run-get-m3u8-list:
 
     runs-on: ubuntu-latest
     
@@ -38,4 +38,4 @@ jobs:
        
     # 运行
     - name: Run
-      run: dotnet run test
+      run: dotnet run getM3U8.dll
