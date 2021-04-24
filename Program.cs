@@ -29,7 +29,7 @@ namespace getM3U8
                         XH_play_list += handle_link.Substring(handle_link.IndexOf(",") + 1, (handle_link.Length - handle_link.IndexOf(",")) - 1).Replace("http", ",http") + "\n";
                     }
                 }
-                Console.WriteLine(XH_play_list);
+                //Console.WriteLine(XH_play_list);
                 string save_tv_txt_path = AppContext.BaseDirectory + "tv.txt";
                 File.WriteAllText(save_tv_txt_path, XH_play_list);
                 Console.WriteLine(DateTime.Now.ToString("MM-dd HH:mm:ss") + " 已将文件保存于" + save_tv_txt_path + "中\n");
