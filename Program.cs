@@ -32,7 +32,7 @@ namespace getM3U8
                     }
                 }
             }
-            //Console.WriteLine(XH_play_list);
+            ////Console.WriteLine(XH_play_list);
             File.WriteAllText(save_tv_txt_path, XH_play_list, Encoding.UTF8);
             Console.WriteLine(DateTime.Now.ToString("【MM-dd HH:mm:ss】") + " 已将文件保存于" + save_tv_txt_path + "\n");
         }
