@@ -47,7 +47,7 @@ jobs:
          git config --local user.name "mayaxcn"
          cp /home/runner/work/getM3U8/getM3U8/bin/Debug/netcoreapp3.1/tv.txt /home/runner/work/getM3U8/getM3U8/tv.txt
          git ls-files
-         git add tv.txt
+         git add tv111.txt
          git commit -m "update tv.txt"
     - name: Push changes
       uses:  ad-m/github-push-action@master
