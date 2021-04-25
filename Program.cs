@@ -13,6 +13,7 @@ namespace getM3U8
         {
             string[] tv_list = new string[] { "news", "xxx", "fashion", "movies", "entertainment", "food" };
             string XH_play_list = "";
+            string save_tv_txt_path = AppContext.BaseDirectory + "tv.txt";
             foreach (string tv_cate in tv_list)
             {
                 string M3U8_list_url = "https://iptv-org.github.io/iptv/categories/" + tv_cate + ".m3u";
@@ -30,11 +31,10 @@ namespace getM3U8
                         XH_play_list += handle_link.Substring(handle_link.IndexOf(",") + 1, (handle_link.Length - handle_link.IndexOf(",")) - 1).Replace("http", ",http") + "\n";
                     }
                 }
-                //Console.WriteLine(XH_play_list);
-                string save_tv_txt_path = AppContext.BaseDirectory + "tv.txt";
-                File.WriteAllText(save_tv_txt_path, XH_play_list, Encoding.UTF8);
-                Console.WriteLine(DateTime.Now.ToString("【MM-dd HH:mm:ss】") + " 已将文件保存于" + save_tv_txt_path + "中\n");
             }
+            //Console.WriteLine(XH_play_list);
+            File.WriteAllText(save_tv_txt_path, XH_play_list, Encoding.UTF8);
+            Console.WriteLine(DateTime.Now.ToString("【MM-dd HH:mm:ss】") + " 已将文件保存于" + save_tv_txt_path + "\n");
         }
 
         private static string GetResponse(string url)
