@@ -34,7 +34,7 @@ namespace getM3U8
             }
             //Console.WriteLine(XH_play_list);
             File.WriteAllText(save_tv_txt_path, XH_play_list, Encoding.UTF8);
-            Console.WriteLine(DateTime.Now.ToString("【MM-dd HH:mm:ss】") + " 已将列表保存于" + save_tv_txt_path + "文件中\n");
+            Console.WriteLine(DateTime.Now.ToString("【MM-dd HH:mm:ss】") + " 已将播放列表保存于" + save_tv_txt_path + "文件中\n");
         }
 
         private static string GetResponse(string url)
