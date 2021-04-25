@@ -49,8 +49,6 @@ jobs:
          git ls-files
          git rm tv.txt
          git commit -m "delete tv.txt"
-         git add tv.txt
-         git commit -m "update tv.txt"
     - name: Push changes
       uses:  ad-m/github-push-action@master
       with:
