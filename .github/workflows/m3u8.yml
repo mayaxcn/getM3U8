@@ -49,6 +49,7 @@ jobs:
          git branch newBranch
          git branch
          git checkout newBranch
+         git add .
          git add tv.txt
          git commit -m "update tv.txt"
          git checkout master
