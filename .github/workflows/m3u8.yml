@@ -46,9 +46,13 @@ jobs:
          git config --local user.email "mayax@vip.qq.com"
          git config --local user.name "mayaxcn"
          cp /home/runner/work/getM3U8/getM3U8/bin/Debug/netcoreapp3.1/tv.txt /home/runner/work/getM3U8/getM3U8/tv.txt
-         git init
+         git branch newBranch
+         git branch
+         git checkout newBranch
          git add tv.txt
-         git commit -m "update tv.txt2021-04-25"
+         git commit -m "update tv.txt"
+         git checkout master
+         git merge newBranch
     - name: Push changes
       uses:  ad-m/github-push-action@master
       with:
