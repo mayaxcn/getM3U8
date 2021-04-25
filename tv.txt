@@ -352,12 +352,12 @@ Weather Nation,https://weathernationtv.roku.wurl.com/manifest/playlist.m3u8
 WFLD FOX 32 Chicago (720p),https://lnc-wfld-fox-aws.tubi.video/index.m3u8
 WITI Fox 6 Milwaukee (720p),https://lnc-witi-fox-aws.tubi.video/index.m3u8
 WJBK Fox 2 Detroit (720p),https://lnc-wjbk-fox-aws.tubi.video/index.m3u8
+WNYW Fox 5 New York (720p),https://lnc-wnyw-fox-aws.tubi.video/index.m3u8
 WSJ (1080p),https://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8
 WSVN Fox 7 Miami (720p),https://bcsecurelivehls-i.akamaihd.net/hls/live/598043/4368278029001_1/onair/master.m3u8
 WTTG Fox 5 Washington DC (720p),https://lnc-wttg-fox-aws.tubi.video/index.m3u8
 WTVT Fox 13 Tampa Bay (720p),https://lnc-wtvt-fox-aws.tubi.video/index.m3u8
 WTXF Fox 29 Philadelphia (720p),https://lnc-wtxf-fox-aws.tubi.video/index.m3u8
-WYNY Fox 5 New York (720p),https://lnc-wnyw-fox-aws.tubi.video/index.m3u8
 Евроновости (720p),https://strm.yandex.ru/kal/euronews_supres/euronews_supres0.m3u8
 Известия (1080p),http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 Известия (720p),https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
