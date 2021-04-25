@@ -44,10 +44,12 @@ jobs:
       run: |
          git config --local user.email "mayax@vip.qq.com"
          git config --local user.name "mayaxcn"
-         cp /home/runner/work/getM3U8/getM3U8/bin/Debug/netcoreapp3.1/tv.txt /home/runner/work/getM3U8/getM3U8/tv.txt
          git ls-files
+         git rm tv.txt
+         git commit -m "删除旧有tv.txt文件"
+         cp /home/runner/work/getM3U8/getM3U8/bin/Debug/netcoreapp3.1/tv.txt /home/runner/work/getM3U8/getM3U8/tv.txt
          git add tv.txt
-         git commit -m "更新tv.txt文件"
+         git commit -m "提交新的tv.txt文件"
          
     # 更新至远程github代码仓库中
     - name: Push changes
