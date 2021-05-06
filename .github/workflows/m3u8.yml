@@ -42,7 +42,7 @@ jobs:
     # 本地提交
     - name: Commit files
       run: |
-         git config --local user.email "mayax@vip.qq.com"
+         git config --local user.email "mayax@github.com"
          git config --local user.name "mayaxcn"
          git ls-files
          git rm tv.txt
