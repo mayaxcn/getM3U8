@@ -11,7 +11,7 @@ namespace getM3U8
     {
         static void Main(string[] args)
         {
-            string[] tv_list = new string[] { "news", "xxx", "sport", "fashion", "movies", "entertainment", "food" };
+            string[] tv_list = new string[] { "news", "xxx", "lifestyle", "movies", "local" ,"entertainment" };
             string XH_play_list = "";
             string save_tv_txt_path = AppContext.BaseDirectory + "tv.txt";
             foreach (string tv_cate in tv_list)
